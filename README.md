@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nasiru Adebayo Olagunju</h1>
 <h3 align="center">A seasoned GIS Analyst/Developer from Nigeria</h3>
 
+GIS Analyst/Developer and trainer who has delivered for companies, government agencies and academic researchers.  
+  
+As a spatial scientist and GIS developer, I have a unique combination of skills that make me excel in both data analysis and software development.  
+  
+My experience in GIS includes:  
+- planning and implementing field data collection  
+- wrangling and cleaning spatial data  
+- creating maps and visualizations,  
+- analyzing data to support decision-making. 
+  
+I am well-versed in programming languages such as Python, JavaScript, and SQL, which I use to develop custom GIS applications and automate geospatial data processing tasks.  
+
+I am always eager to take on new challenges and find creative solutions to problems. I am passionate about using maps and GIS technology to make a positive impact in various fields such as business intelligence, land information management, water resource management, transport planning and health service delivery.
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=geoafrikana&label=Profile%20views&color=0e75b6&style=flat" alt="geoafrikana" /> <a href="https://twitter.com/spatialnasir" target="blank"><img src="https://img.shields.io/twitter/follow/spatialnasir?logo=twitter&style=for-the-badge" alt="spatialnasir" /></a> </p>
 
 - 📝 I regularly write articles on [spatialnasir.blogspot.com](spatialnasir.blogspot.com)
