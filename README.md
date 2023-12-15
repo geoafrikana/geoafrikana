@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geoafrikana&label=Profile%20views&color=0e75b6&style=flat" alt="geoafrikana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoafrikana" alt="geoafrikana" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/spatialnasir" target="blank"><img src="https://img.shields.io/twitter/follow/spatialnasir?logo=twitter&style=for-the-badge" alt="spatialnasir" /></a> </p>
 
 - 📝 I regularly write articles on [spatialnasir.blogspot.com](spatialnasir.blogspot.com)
