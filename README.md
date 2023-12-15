@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasiru Adebayo Olagunju</h1>
 <h3 align="center">A seasoned GIS Analyst/Developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geoafrikana&label=Profile%20views&color=0e75b6&style=flat" alt="geoafrikana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/spatialnasir" target="blank"><img src="https://img.shields.io/twitter/follow/spatialnasir?logo=twitter&style=for-the-badge" alt="spatialnasir" /></a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=geoafrikana&label=Profile%20views&color=0e75b6&style=flat" alt="geoafrikana" /> <a href="https://twitter.com/spatialnasir" target="blank"><img src="https://img.shields.io/twitter/follow/spatialnasir?logo=twitter&style=for-the-badge" alt="spatialnasir" /></a> </p>
 
 - 📝 I regularly write articles on [spatialnasir.blogspot.com](spatialnasir.blogspot.com)
 
