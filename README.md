@@ -7,6 +7,7 @@ GIS Analyst/Developer and trainer who has delivered for companies, government ag
 As a spatial scientist and GIS developer, I have a unique combination of skills that make me excel in both data analysis and software development.  
   
 My experience in GIS includes:  
+- building geospatial web applications
 - planning and implementing field data collection  
 - wrangling and cleaning spatial data  
 - creating maps and visualizations,  
